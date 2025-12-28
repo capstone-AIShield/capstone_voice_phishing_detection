@@ -1,0 +1,10 @@
+torch
+numpy
+pandas
+librosa
+soundfile
+noisereduce
+scipy
+faster-whisper
+tqdm
+kss
