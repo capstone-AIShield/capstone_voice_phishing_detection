@@ -1,5 +1,5 @@
 # capstone_project
-
+Seoultech capstone
 Voice phishing real-time detection demo stack.
 
 ## Stack
